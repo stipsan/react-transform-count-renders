@@ -40,14 +40,6 @@ It must be an array of the transforms you want to use:
       "plugins": [["react-transform", {
         "transforms": [{
           "transform": "react-transform-count-renders",
-          // now go the imports!
-          "imports": [
-
-            // the first import is your React distribution
-            // (if you use React Native, pass "react-native" instead)
-
-            "react"
-          ]
         }]
         // note: you can put more transforms into array
         // this is just one of them!
