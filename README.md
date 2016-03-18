@@ -2,7 +2,7 @@
 
 [![react-transform channel on discord](https://img.shields.io/badge/discord-react--transform%40reactiflux-61DAFB.svg?style=flat-square)](http://www.reactiflux.com)
 
-A [React Transform](https://github.com/gaearon/babel-plugin-react-transform) that appends `console.count(this.displayName || this.constructor.name || 'Uknown')` inside the `render()` function.
+A [React Transform](https://github.com/gaearon/babel-plugin-react-transform) that appends `console.count(this.displayName)` inside the `render()` function.
 
 This way you can quickly see how many times certain components render. The higher the count is while just performing a few interactions the likelier you got bottlenecks.
 
