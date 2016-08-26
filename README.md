@@ -1,5 +1,8 @@
 # react-transform-count-renders
 
+[![NPM](https://nodei.co/npm/react-transform-count-renders.png?downloadRank=true)](https://www.npmjs.com/package/react-transform-count-renders)
+[![NPM](https://nodei.co/npm-dl/react-transform-count-renders.png?months=3&height=2)](https://nodei.co/npm/react-transform-count-renders/)
+
 [![react-transform channel on discord](https://img.shields.io/badge/discord-react--transform%40reactiflux-61DAFB.svg?style=flat-square)](http://www.reactiflux.com)
 
 A [React Transform](https://github.com/gaearon/babel-plugin-react-transform) that appends `console.count(this.displayName)` inside the `render()` function.
