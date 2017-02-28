@@ -1,5 +1,7 @@
 # react-transform-count-renders
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stipsan/react-transform-count-renders.svg)](https://greenkeeper.io/)
+
 [![NPM](https://nodei.co/npm/react-transform-count-renders.png?downloadRank=true)](https://www.npmjs.com/package/react-transform-count-renders)
 [![NPM](https://nodei.co/npm-dl/react-transform-count-renders.png?months=3&height=2)](https://nodei.co/npm/react-transform-count-renders/)
 
